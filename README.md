@@ -2,7 +2,7 @@
   <a href="https://docs.filecoin.io/" title="Filecoin Docs">
     <img src="https://www.lvzy.pro/img/filgo-logo.svg" alt="Project Lotus Logo" width="244" />
   </a>
-</p>
+</p>  
 
 <h1 align="center">Filecoin 官方文档（中文版）</h1>
 
@@ -18,7 +18,21 @@ Filecoin 官方文档中文版，与<a target="_blank" href="https://docs.fileco
 
 ## Filecoin 捐赠
 
-<p float="left">
-<img src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="filecoin"/>
-<img src="https://www.lvzy.pro/img/qr-alipay.png" width = "200" alt="filecoin"/>
-</p>
+<div float="left">
+  <div style="display:inline-block;text-align:center;width:200px;">
+    <div style="width:200px;"><img src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="Filecoin"/></div>
+    <p style="width:200px;color:#999999;font-size:0.8rem;"><i>f1iwpxav5l2twkrbnusio75gxdtx7ssap7o2u6ldq</i></p>
+  </div>
+  <div style="display:inline-block;text-align:center;width:200px;">
+    <div style="width:200px;"><img src="https://www.lvzy.pro/img/qr-btc.png" width = "200" alt="Bitcoin"/></div>
+    <p style="width:200px;color:#999999;font-size:0.8rem;">3EJSdFPXaG9BLHhoyzXSWfWGZz42t54eLS</p>
+  </div>
+  <div style="display:inline-block;text-align:center;width:200px;">
+    <div style="width:200px;"><img src="https://www.lvzy.pro/img/qr-eth.png" width = "200" alt="Ethereum"/></div>
+    <p style="width:200px;color:#999999;font-size:0.8rem;">0xE033969CA86ccd932B7c4B6EF928971159D997Ed</p>
+  </div>
+  <div style="display:inline-block;text-align:center;width:200px;">
+    <div style="width:200px;"><img src="https://www.lvzy.pro/img/qr-atom.png" width = "200" alt="Cosmos"/></div>
+    <p style="width:200px;color:#999999;font-size:0.8rem;">cosmos16r6m79fypvmuylq5q6v7f7vvd9efg5jdxlawph</p>
+  </div>
+</div>
