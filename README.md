@@ -14,10 +14,9 @@
   <a href="https://996.icu"><img alt="996ICU" src="https://badges.chfse.com/badge/链接-996ICU-red.svg"></a>
 </p>
 
-Filecoin 官方文档中文版，与<a href="https://docs.filecoin.io/">官方英文原版</a>同步更新。
+Filecoin 官方文档中文版，与<a target="_blank" href="https://docs.filecoin.io/">官方英文原版</a>同步更新。
 
 ## Filecoin 捐赠
 
 <img src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="filecoin"/>
-<img src="https://www.lvzy.pro/img/qr-btc.png" width = "200" alt="filecoin"/>
 <img src="https://www.lvzy.pro/img/qr-alipay.png" width = "200" alt="filecoin"/>
