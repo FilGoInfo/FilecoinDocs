@@ -18,9 +18,18 @@ Filecoin 官方文档中文版，与<a target="_blank" href="https://docs.fileco
 
 ## Filecoin 捐赠
 
-<p style="display: flex;justify-content: space-between;">
-  <img alt="Filecoin:" src="https://www.lvzy.pro/img/qr-fil.png" width = "200"/>
-  <img alt="Bitcoin:" src="https://www.lvzy.pro/img/qr-btc.png" width = "200"/>
-  <img alt="Ethereum:" src="https://www.lvzy.pro/img/qr-eth.png" width = "200"/>
-  <img alt="Cosmos:" src="https://www.lvzy.pro/img/qr-atom.png" width = "200"/>
+### 数字货币
+
+<p style="float: left;">
+  <img alt="Filecoin:f1iwpxav5l2twkrbnusio75gxdtx7ssap7o2u6ldq" src="https://www.lvzy.pro/img/qr-fil.png" width = "200"/>
+  <img alt="Bitcoin:3EJSdFPXaG9BLHhoyzXSWfWGZz42t54eLS" src="https://www.lvzy.pro/img/qr-btc.png" width = "200"/>
+  <img alt="Ethereum:0xE033969CA86ccd932B7c4B6EF928971159D997Ed" src="https://www.lvzy.pro/img/qr-eth.png" width = "200"/>
+  <img alt="Cosmos:cosmos16r6m79fypvmuylq5q6v7f7vvd9efg5jdxlawph" src="https://www.lvzy.pro/img/qr-atom.png" width = "200"/>
+</p>
+
+### 网络支付
+
+<p style="float: left;">
+  <img alt="支付宝: vlongen@vip.qq.com" src="https://www.lvzy.pro/img/qr-alipay.png" width = "200"/>
+  <img alt="微信支付:CHFSE_COM" src="https://www.lvzy.pro/img/qr-wxpay.png" width = "200"/>
 </p>
