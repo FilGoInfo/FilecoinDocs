@@ -14,9 +14,13 @@
   <a href="https://996.icu"><img alt="996ICU" src="https://badges.chfse.com/badge/链接-996ICU-red.svg"></a>
 </p>
 
-Filecoin 官方文档中文版，与<a target="_blank" href="https://docs.filecoin.io/">官方英文原版</a>同步更新。
+<p align="center">
+  Filecoin 官方文档中文版，与<a target="_blank" href="https://docs.filecoin.io/">官方英文原版</a>同步更新。您可以点击<a href="https://filecoin.filgo.info/">在线文档</a>进行访问。
+</p>
 
-## Filecoin 捐赠
+## 捐赠 FilGo 方式
+
+如果 FilGo 生态中的任何一项为您带啦了便捷或者价值，您可以请我渴一杯咖啡哦！并且
 
 ### 数字货币
 
