@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  这个项目是 Filecoin 官方文档的中文版，与<a target="_blank" href="https://docs.filecoin.io/">原版官方文档（英文）</a>同步更新。您可以点击<a href="https://filecoin.filgo.info/">在线文档</a>进行访问，翻译方式目前为“谷歌翻译+微软术语库+百度翻译+有道词典+人工校对”，如有不足和歧义，请提交 Issue 给我。
+  这个项目是 Filecoin 官方文档的中文版，与<a target="_blank" href="https://docs.filecoin.io/">原版官方文档（英文）</a>同步更新。翻译方式为“谷歌翻译+微软术语库+百度翻译+有道词典+人工校对”，如有不足和歧义，请提交 Issue 给我。
 </p>
 
 ## 捐赠 FilGo 方式
