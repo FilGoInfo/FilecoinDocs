@@ -18,6 +18,13 @@ Filecoin 官方文档中文版，与<a target="_blank" href="https://docs.fileco
 
 ## Filecoin 捐赠
 
+<p style="display: flex;justify-content: space-between;">
+<img style="display:inline-block;" src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="Filecoin"/>
+<img style="display:inline-block;" src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="Filecoin"/>
+<img style="display:inline-block;" src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="Filecoin"/>
+<img style="display:inline-block;" src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="Filecoin"/>
+</p>
+
 <div float="left">
   <div style="display:inline-block;text-align:center;width:200px;">
     <div style="width:200px;"><img src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="Filecoin"/></div>
