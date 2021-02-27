@@ -18,5 +18,4 @@ Filecoin 官方文档中文版，与<a target="_blank" href="https://docs.fileco
 
 ## Filecoin 捐赠
 
-<img src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="filecoin"/>
-<img src="https://www.lvzy.pro/img/qr-alipay.png" width = "200" alt="filecoin"/>
+![alt-text-1](https://www.lvzy.pro/img/qr-fil.png "title-1") ![alt-text-2](https://www.lvzy.pro/img/qr-alipay.png "title-2")
