@@ -19,27 +19,8 @@ Filecoin 官方文档中文版，与<a target="_blank" href="https://docs.fileco
 ## Filecoin 捐赠
 
 <p style="display: flex;justify-content: space-between;">
-<img style="display:inline-block;" src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="Filecoin"/>
-<img style="display:inline-block;" src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="Filecoin"/>
-<img style="display:inline-block;" src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="Filecoin"/>
-<img style="display:inline-block;" src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="Filecoin"/>
+  <img alt="Filecoin:" src="https://www.lvzy.pro/img/qr-fil.png" width = "200"/>
+  <img alt="Bitcoin:" src="https://www.lvzy.pro/img/qr-btc.png" width = "200"/>
+  <img alt="Ethereum:" src="https://www.lvzy.pro/img/qr-eth.png" width = "200"/>
+  <img alt="Cosmos:" src="https://www.lvzy.pro/img/qr-atom.png" width = "200"/>
 </p>
-
-<div float="left">
-  <div style="display:inline-block;text-align:center;width:200px;">
-    <div style="width:200px;"><img src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="Filecoin"/></div>
-    <p style="width:200px;color:#999999;font-size:0.8rem;"><i>f1iwpxav5l2twkrbnusio75gxdtx7ssap7o2u6ldq</i></p>
-  </div>
-  <div style="display:inline-block;text-align:center;width:200px;">
-    <div style="width:200px;"><img src="https://www.lvzy.pro/img/qr-btc.png" width = "200" alt="Bitcoin"/></div>
-    <p style="width:200px;color:#999999;font-size:0.8rem;">3EJSdFPXaG9BLHhoyzXSWfWGZz42t54eLS</p>
-  </div>
-  <div style="display:inline-block;text-align:center;width:200px;">
-    <div style="width:200px;"><img src="https://www.lvzy.pro/img/qr-eth.png" width = "200" alt="Ethereum"/></div>
-    <p style="width:200px;color:#999999;font-size:0.8rem;">0xE033969CA86ccd932B7c4B6EF928971159D997Ed</p>
-  </div>
-  <div style="display:inline-block;text-align:center;width:200px;">
-    <div style="width:200px;"><img src="https://www.lvzy.pro/img/qr-atom.png" width = "200" alt="Cosmos"/></div>
-    <p style="width:200px;color:#999999;font-size:0.8rem;">cosmos16r6m79fypvmuylq5q6v7f7vvd9efg5jdxlawph</p>
-  </div>
-</div>
