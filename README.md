@@ -19,8 +19,5 @@ Filecoin 官方文档中文版，与官方英文原版同步更新。
 ## Filecoin 捐赠
 
 <img src="https://www.lvzy.pro/img/qr-fil.png" width = "200" alt="filecoin"/>
-<img src="https://www.lvzy.pro/img/qr-eth.png" width = "200" alt="filecoin"/>
-<img src="https://www.lvzy.pro/img/qr-atom.png" width = "200" alt="filecoin"/>
 <img src="https://www.lvzy.pro/img/qr-btc.png" width = "200" alt="filecoin"/>
 <img src="https://www.lvzy.pro/img/qr-alipay.png" width = "200" alt="filecoin"/>
-<img src="https://www.lvzy.pro/img/qr-wxpay.png" width = "200" alt="filecoin"/>
